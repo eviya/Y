@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+
+struct TCreate {
+    var id: Int?
+}
+
