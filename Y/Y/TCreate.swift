@@ -9,7 +9,14 @@
 import Foundation
 
 
+
 struct TCreate {
     var id: Int?
+}
+
+import UIKit
+
+struct MCreate {
+    var name: String?
 }
 
