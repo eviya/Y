@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+import UIKit
+
+struct MCreate {
+    var name: String?
+}
