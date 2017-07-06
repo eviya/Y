@@ -12,6 +12,7 @@
 		C92622F61F0E07B70075C4D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C92622F41F0E07B70075C4D7 /* Main.storyboard */; };
 		C92622F81F0E07B70075C4D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C92622F71F0E07B70075C4D7 /* Assets.xcassets */; };
 		C92622FB1F0E07B70075C4D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C92622F91F0E07B70075C4D7 /* LaunchScreen.storyboard */; };
+		C92623031F0E084C0075C4D7 /* TCreate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92623021F0E084C0075C4D7 /* TCreate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C92622F71F0E07B70075C4D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C92622FA1F0E07B70075C4D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C92622FC1F0E07B70075C4D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C92623021F0E084C0075C4D7 /* TCreate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TCreate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				C92622F01F0E07B70075C4D7 /* AppDelegate.swift */,
 				C92622F21F0E07B70075C4D7 /* ViewController.swift */,
+				C92623021F0E084C0075C4D7 /* TCreate.swift */,
 				C92622F41F0E07B70075C4D7 /* Main.storyboard */,
 				C92622F71F0E07B70075C4D7 /* Assets.xcassets */,
 				C92622F91F0E07B70075C4D7 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				C92622F31F0E07B70075C4D7 /* ViewController.swift in Sources */,
 				C92622F11F0E07B70075C4D7 /* AppDelegate.swift in Sources */,
+				C92623031F0E084C0075C4D7 /* TCreate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				C92623011F0E07B70075C4D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
